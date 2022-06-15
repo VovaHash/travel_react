@@ -112,3 +112,6 @@
   align-items: center;
   margin: auto;
 }
+.card_line:last-of-type{
+  display: none;
+}
