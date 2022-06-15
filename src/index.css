@@ -17,6 +17,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-bottom: 18px;
 }
 
 .header--icon {
@@ -33,7 +34,7 @@
 
 
 .card {
-  margin: 36px 40px;
+  padding: 18px 40px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -102,4 +103,12 @@
   line-height: 15px;
   color: #2B283A;
   padding-block: 3px;
+}
+
+.card_line{
+  border: 1px solid #F5F5F5;
+  max-width: 478px;
+  display: flex;
+  align-items: center;
+  margin: auto;
 }
